@@ -1,2 +1,0 @@
-# FireScience
-Wildfire Risk Reduction 
